@@ -1,2 +1,2 @@
 # README
-This is Homework from course Introduction to Machine Learning, THU CST 24Spring
+These are the assignments from the course “Introduction to Machine Learning,” Tsinghua University, Computer Science and Technology, Spring 2024.
